@@ -1,0 +1,17 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# OS-specific
+.DS_Store
+
+# Model files
+*.joblib
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
